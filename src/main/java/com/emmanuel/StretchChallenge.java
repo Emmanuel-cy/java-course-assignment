@@ -2,7 +2,7 @@ package com.emmanuel;
 
 public class StretchChallenge {
     void main() {
-        10
+
         int amount = Integer.parseInt(
                 IO.readln("Withdrawal amount in whole dollars: ")
         );
